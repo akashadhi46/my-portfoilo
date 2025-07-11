@@ -21,3 +21,7 @@ This is a responsive personal portfolio website built using HTML, CSS, and JavaS
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/portfolio-website.git
+
+
+   URL:
+   https://akashadhi46.github.io/my-portfoilo/
